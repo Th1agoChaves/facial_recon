@@ -1,0 +1,1 @@
+Arquivo de fotos com pessoas para testar a verificacao facial(aceita formatos como .jpg, .jpeg, .png, .bmp ou .webp).

@@ -1,0 +1,1 @@
+Arquivo de fotos com pessoas de acesso autorizado(aceita formatos como .jpg, .jpeg, .png, .bmp ou .webp).

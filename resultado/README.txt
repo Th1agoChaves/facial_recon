@@ -1,0 +1,1 @@
+Arquivo de fotos com o resultado do processamento das imagens da pasta "teste".
